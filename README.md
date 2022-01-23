@@ -35,19 +35,19 @@ In this code you will find:
 #### Code Preview
 ##### Initialization
 where we can chose the Cross and mutation chances and number of iterations
-![ini](Results/Capture.png)
+![ini](Results/Capture.PNG)
 
 ##### After 10 Iterations
-![ini](Results/Capture2.png)
+![ini](Results/Capture2.PNG)
 
 ###### Information about the picked elements &  Details about the cross and mutation positions
-![ini](Results/Capture3.png)
+![ini](Results/Capture3.PNG)
 
 ##### After 15 Iterations
-![ini](Results/Capture4.png)
+![ini](Results/Capture4.PNG)
 
 ##### Best solution found after 15 Iteration
-![ini](Results/Capture5.png)
+![ini](Results/Capture5.PNG)
 
 #### Discussion
 This is the Downside of genetic algorithms, like in this example the better solutions was in **Iteration 10**, (`x6 = 51 995`) but it was lost during the process because it had competition and his probability wasn't high enough to be picked as the best solution.
